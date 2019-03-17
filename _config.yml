@@ -46,7 +46,7 @@ highlight:
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
-# per_page: Posts displayed per page. (0 = disable pagination)
+# per_page: 10
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
@@ -109,6 +109,12 @@ search:
   format: html
   limit: 10000
 
+# 自动生成sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
@@ -118,5 +124,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:hx926453/hx926453.github.io.git
+  #repo: git@github.com:hx926453/hx926453.github.io.git
+  repo: git@git.dev.tencent.com:hx926453/hx926453.git
   branch: master

@@ -1,8 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-password: 
+password:
 tags:
-top: 
+categories: 
+top:
 copyright: ture
 ---
