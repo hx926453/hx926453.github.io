@@ -124,6 +124,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  #repo: git@github.com:hx926453/hx926453.github.io.git
-  repo: git@git.dev.tencent.com:hx926453/hx926453.git
+  repo: git@github.com:hx926453/hx926453.github.io.git
+ # repo: git@git.dev.tencent.com:hx926453/hx926453.git
   branch: master
