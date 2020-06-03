@@ -39,4 +39,109 @@
     
   </entry>
   
+  <entry>
+    <title>将使用的Ubuntu封装成可以安装的镜像</title>
+    <link href="https://xiongge.top/posts/a2644a6e/"/>
+    <id>https://xiongge.top/posts/a2644a6e/</id>
+    <published>2019-10-06T10:20:12.000Z</published>
+    <updated>2020-06-03T14:40:40.800Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Ubuntu封装镜像&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="https://xiongge.top/categories/Linux/"/>
+    
+    
+      <category term="Ubuntu" scheme="https://xiongge.top/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>添加高级电源功能和删除系统软件不卡米教程-理论适用所有小米机</title>
+    <link href="https://xiongge.top/posts/8ed1231d/"/>
+    <id>https://xiongge.top/posts/8ed1231d/</id>
+    <published>2019-03-18T06:55:12.000Z</published>
+    <updated>2020-06-03T14:40:40.812Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;MIUI破解卡米添加高级电源功能&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Android" scheme="https://xiongge.top/categories/Android/"/>
+    
+    
+      <category term="MIUI" scheme="https://xiongge.top/tags/MIUI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Next主题优化</title>
+    <link href="https://xiongge.top/posts/6f131e07/"/>
+    <id>https://xiongge.top/posts/6f131e07/</id>
+    <published>2019-03-17T07:49:54.000Z</published>
+    <updated>2020-06-03T14:40:40.825Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;next的美化之路&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="next" scheme="https://xiongge.top/categories/next/"/>
+    
+    
+      <category term="hexo" scheme="https://xiongge.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo添加文章时自动打开编辑器</title>
+    <link href="https://xiongge.top/posts/e7fa2d4f/"/>
+    <id>https://xiongge.top/posts/e7fa2d4f/</id>
+    <published>2019-03-17T07:19:31.000Z</published>
+    <updated>2020-06-03T14:40:40.837Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文转载于  &lt;a href=&quot;https://notes.doublemine.me/2015-06-29-Hexo%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E6%97%B6%E8%87%AA%E5%8A%A8%E6%89%93%E5%BC%80%E7%BC%96%E8%BE%91%E5%99%A8.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;博主： 夏末&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://xiongge.top/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://xiongge.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多终端同步博客</title>
+    <link href="https://xiongge.top/posts/a7e41fa1/"/>
+    <id>https://xiongge.top/posts/a7e41fa1/</id>
+    <published>2019-03-16T13:45:01.000Z</published>
+    <updated>2020-06-03T14:40:40.786Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;多端同步博客&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://xiongge.top/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://xiongge.top/tags/hexo/"/>
+    
+  </entry>
+  
 </feed>

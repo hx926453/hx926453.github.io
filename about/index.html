@@ -720,13 +720,23 @@
                     <div class="post-statis col l4 hide-on-med-and-down" data-aos="zoom-in-right">
                         
 <div class="statis">
-    <span class="count"><a href="/">1</a></span>
+    <span class="count"><a href="/">6</a></span>
     <span class="name">文章</span>
 </div>
 
 
 
+<div class="statis">
+    <span class="count"><a href="/categories">4</a></span>
+    <span class="name">分类</span>
+</div>
 
+
+
+<div class="statis">
+    <span class="count"><a href="/tags">3</a></span>
+    <span class="name">标签</span>
+</div>
 
 
                     </div>
@@ -740,13 +750,23 @@
                                 <div class="post-statis hide-on-large-only" data-aos="zoom-in-right">
                                     
 <div class="statis">
-    <span class="count"><a href="/">1</a></span>
+    <span class="count"><a href="/">6</a></span>
     <span class="name">文章</span>
 </div>
 
 
 
+<div class="statis">
+    <span class="count"><a href="/categories">4</a></span>
+    <span class="name">分类</span>
+</div>
 
+
+
+<div class="statis">
+    <span class="count"><a href="/tags">3</a></span>
+    <span class="name">标签</span>
+</div>
 
 
                                 </div>
@@ -940,7 +960,7 @@
                 name: '文章篇数',
                 type: 'line',
                 color: ['#6772e5'],
-                data: [0,0,0,0,0,0,0,0,0,0,0,0,1],
+                data: [0,0,0,0,1,0,0,0,0,0,0,0,1],
                 markPoint: {
                     symbolSize: 45,
                     color: ['#fa755a','#3ecf8e','#82d3f4'],
@@ -982,7 +1002,7 @@
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [],
+                data: [{"name":"next","value":1},{"name":"hexo","value":2},{"name":"Linux","value":1},{"name":"Android","value":1}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -1006,7 +1026,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: []
+                data: ["hexo","Ubuntu","MIUI"]
             }
         ],
         yAxis: [
@@ -1019,7 +1039,7 @@
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [],
+                data: [3,1,1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
@@ -1188,6 +1208,24 @@
         <div class="sub-title center-align"><i class="fa fa-book"></i>&nbsp;&nbsp;其他技能</div>
         <div class="tag-chips center-align">
             
+            
+            <a href="/tags/hexo/">
+                <span class="chip center-align waves-effect waves-light chip-default">hexo</span>
+            </a>
+            
+            
+            
+            <a href="/tags/Ubuntu/">
+                <span class="chip center-align waves-effect waves-light chip-default">Ubuntu</span>
+            </a>
+            
+            
+            
+            <a href="/tags/MIUI/">
+                <span class="chip center-align waves-effect waves-light chip-default">MIUI</span>
+            </a>
+            
+            
         </div>
     </div>
     
@@ -1296,7 +1334,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">125</span>&nbsp;字
+                class="white-color">10.7k</span>&nbsp;字
             
             
             
