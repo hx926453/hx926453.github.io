@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>雄哥の博客</title>
+  
+  <subtitle>梦想小筑</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://xiongge.top/"/>
+  <updated>2020-04-04T09:07:39.952Z</updated>
+  <id>https://xiongge.top/</id>
+  
+  <author>
+    <name>一剑问情</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xiongge.top/posts/4a17b156/"/>
+    <id>https://xiongge.top/posts/4a17b156/</id>
+    <published>2020-06-03T07:30:28.124Z</published>
+    <updated>2020-04-04T09:07:39.952Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
